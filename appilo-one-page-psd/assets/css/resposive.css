@@ -1,0 +1,581 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+    /* Start About Area */
+    .about-box-icon > img {
+        margin-top: -50px;
+    }
+    /* End About Area */
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    /* Start Footer Area */
+    .footer-addrees{
+        margin-top: 40px;
+    }
+    .footer-gelary{
+        margin-top: 40px;
+    }
+    .all-footer-img{
+        grid-row-gap: 16px;
+    }
+    /* End Footer Area */
+
+    /* Start Blog Area */
+    .blog-area {
+        padding: 30px 0;
+    }
+    .blog-area .blog-content {
+        margin-top: 50px;
+    }
+    /* End Blog Area */
+
+    /* Start Testimonial Arae */
+    .testimonial-area .testmonial-content {
+        padding: 100px 35px 100px 35px;
+    }
+    .testimonial-area .client-review {
+        top: 80px;
+        left: 145px;
+    }
+    /* End Testimonial Area */
+
+    /* Start Portfolio Area */
+    .portfolio-area {
+        padding: 55px 0;
+    }
+    .portfolio-area .portfolio-title h3 {
+        font-size: 19px;
+    }
+    .portfolio-area .portfolio-menu ul li {
+        display: inline-block;
+        padding: 6px 10px;
+    }
+    /* End Portfolio Area */
+
+    /* Start Company Secues Area */
+    .count-content {
+        margin: 0 0 45px 0;
+    }
+    .defolt-heading-style-one-title {
+        font-size: 35px;
+        padding-bottom: 25px;
+    }
+    /* End Company Secues Area */
+
+    /* Start Services Area */
+    .services-area .service-content {
+        padding: 45px 20px 70px 20px;
+    }
+    /* End Services Area */
+
+    /* Start SKill Area */
+    .skill-area-img > img {
+        width: 450.5px;
+    }
+    /* End Skill Area */
+
+    /* Start About Area */
+    .about-area .about-bg > img{
+        width:450px;
+    }
+    .about-area-sub-title {
+        text-align: center;
+    }
+    .about-area-button {
+        text-align: center;
+    }
+    /* End About Area */
+
+    
+    /* Start Choos Area */
+    section.choos-area {
+        padding-bottom: 100px;
+        padding-top: 20px;
+    }
+    .skill-area .choos-area-sub-title {
+        display: block;
+    }
+    .all-title-choos-area .choos-area-sub-title > h5 {
+        text-align: center;
+        margin-top: 40px;
+    }
+    .all-title-choos-area .choos-area-title > h3 {
+        text-align: center;
+    }
+    .all-title-choos-area .choos-area-pera > p {
+        text-align: center;
+    }
+    .choos-area-button {
+        margin-top: 45px;
+        text-align: center;
+    }
+    /* End Choos Area */
+
+    /* Start Header Area */
+    nav.sina-nav.mobile-sidebar.navbar-fixed{
+        position: fixed !important;
+        top: 0;
+        box-shadow: 0 1px 4px #eee;
+    }
+    .sina-nav .navbar-toggle {
+        float: none;
+    }
+    /* End Header Area */
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /* Start Footer Area */
+    .footer-addrees{
+        margin-top: 40px;
+    }
+    .footer-gelary{
+        margin-top: 40px;
+    }
+    .all-footer-img{
+        grid-row-gap: 16px;
+    }
+    /* End Footer Area */
+
+    /* Start Blog Area */
+    .blog-area {
+        padding-top: 30px ;
+        padding-bottom: 50px;
+    }
+    .blog-area .blog-content {
+        margin-top: 50px;
+    }
+    /* End Blog Area */
+
+    /* Start Portfolio Area */
+    .portfolio-area{
+        padding: 45px 0;
+    }
+    .portfolio-area .portfolio-menu{
+        display: none;
+    }
+    .portfolio-area .portfolio-menu1{
+        display: block;
+    }
+    .portfolio-area .portfolio-main-titles h3{
+        display: none;
+    }
+    .portfolio-area .portfolio-sub-title1{
+        display: block;
+        text-align:center;
+    }
+    .portfolio-area .portfolio-main-title1 h3{
+        display: block;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .portfolio-area .portfolio-sub-title{
+        display: none;
+    }
+    .portfolio-img1 > img {
+        width: 100%;
+    }
+    .portfolio-img2 > img {
+        width: 100%;
+    }
+    .portfolio-area .portfolio-menu1 ul li {
+        padding: 6px 5px;
+    }
+    /* End Portfolio Area */
+
+    /* Start Skill Area */
+    .skill-area .choos-area-sub-title {
+        display: block;
+    }
+    /* End Skill Area */
+
+    /* Start Schedule Area */
+    .schedule-area-title > h4 {
+        font-size: 25px;
+    }
+    /* End Schedule Area */
+
+    /* Start Company Secues Area */
+    .count-content {
+        margin: 0 0 45px 0;
+    }
+    .defolt-heading-style-one-title {
+        font-size: 35px;
+        padding-bottom: 25px;
+    }
+     /* End Company Secues Area */
+
+    /* Start About Area */
+   .about-area .about-bg {
+        position: initial;
+        margin-bottom: 30px;
+        transform: translateY(0);
+        right: 0;
+    } 
+    .about-area .about-bg > img{
+        width:100%;
+    }
+    .about-area-all-title .about-area-sub-title > h5 {
+        text-align: center;
+    }
+    .about-area-all-title .about-area-title > h3 {
+        text-align: center;
+    }
+    .about-area-button {
+        margin-top: 35px;
+        text-align: center;
+    }
+    /* End About Area */
+
+    /* Start Choos Area */
+    section.choos-area {
+        padding-bottom: 60px;
+        padding-top: 20px;
+    }
+    .all-title-choos-area .choos-area-sub-title > h5 {
+        text-align: center;
+        margin-top: 40px;
+    }
+    .all-title-choos-area .choos-area-title > h3 {
+        text-align: center;
+    }
+    .all-title-choos-area .choos-area-pera > p {
+        text-align: center;
+    }
+    .choos-area-button {
+        margin-top: 45px;
+        text-align: center;
+    }
+    /* End Choos Area */
+
+    /* Start Heder Area */
+    nav.sina-nav.mobile-sidebar.navbar-fixed{
+        position: fixed !important;
+        top: 0;
+        box-shadow: 0 1px 4px #eee;
+    }
+    .sina-nav .navbar-toggle {
+        position: absolute;
+        left: 0px;
+        z-index: 9999;
+    }
+    /* End Header Area */
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+
+    /* Start Footer Area */
+    .footer-area{
+        overflow: hidden;
+    }
+    .footer-logo {
+        margin-bottom: 15px;
+    }
+    .footer-social-media-icons {
+        margin-bottom: 25px;
+    }
+    .footer-addrees {
+        margin-bottom: 30px;
+    }
+    /* End Footer Area */
+
+    /* Start Blog Area */
+    .blog-area .blog-sub-title > h6 {
+        text-align: center;
+    }
+    .blog-area .blog-title > h3 {
+        text-align: center;
+        font-size: 25px;
+    }
+    .blog-area .blog-title-pera {
+        text-align: center;
+    }
+    .blog-area .blog-title-pera > p{
+        font-size: 20px;
+    }
+    .blog-title-button {
+        text-align: center;
+    }
+    .blog-area{
+        padding-top: 40px;
+    }
+    .blog-area .blog-content {
+        margin-top: 35px;
+    }
+    .blog-title-content {
+        margin-bottom: 25px;
+    }
+    /* End Blog Area */
+
+    /* Start Testmonial Area */
+    .testimonial-area .testmonial-content {
+        padding: 80px 17px;
+    }
+    span.client-images > img {
+        width: 100px;
+    }
+    .testimonial-area .client-review {
+        top: 55px;
+        left: 80px;
+        padding: 2px 5px;
+    }
+    .testimonial-area .client-comment {
+        left: 150px;
+        top: 75px;
+    }
+    .testimonial-area .client-comment > p {
+        font-size: 13px;
+        padding-right: 10px;
+        margin-bottom: 10px;
+    }
+    /* End Testmonial Area */
+
+    /* Start Portfolio Area */
+    .portfolio-img1{
+        margin-bottom: 20px;
+    }
+    .portfolio-img1 > img {
+        width: 100%;
+    }
+    .portfolio-img2{
+        margin-top: 20px;
+    }
+    .portfolio-img2 > img {
+        width: 100%;
+    }
+    .portfolio-area .portfolio-main-titles h3 {
+        font-size: 30px;
+    }
+    .portfolio-main-titles {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .portfolio-area .portfolio-sub-title {
+        display: block;
+        text-align: center;
+    }
+    /* End Portfolio Area */
+
+    /* Start Schedule Area */
+    .schedule-area-title > h4 {
+        font-size: 22px;
+    }
+    /* End Schedule Area */
+
+    /* Start Skill Area */
+    .skill-area .choos-area-sub-title {
+        display: block;
+    }
+    .all-title-choos-area .choos-area-title > h3 {
+        font-size: 25px;
+    }
+    .skill-area-img {
+        display: none;
+    }
+    /* End Skill Area */
+
+    /* Start Company Secues Area */
+    .counting-area h4.defolt-heading-style-one-title {
+        font-size: 24px;
+    }
+    .defolt-heading-style-one-title {
+        font-size: 22px;
+        padding-bottom: 25px;
+    }
+    .counting-area .counting-number {
+        font-size: 28px;
+        margin-left: 100px;
+    }
+    .counting-title span {
+        top: 33px;
+        font-size: 11px;
+    }
+    .count-content {
+        margin: 0 0 45px 0;
+    }
+    /* End Company Secues Area */
+
+    /* Start Services Area */
+    .services-area-title h4.defolt-heading-style-one-title {
+        font-size: 25px;
+    }
+    /* End Services Area */
+
+    /* Stat About Area */
+    .about-area .about-bg {
+        position: initial;
+        margin-bottom: 30px;
+        transform: translateY(0);
+        right: 0;
+    } 
+    .about-area .about-bg > img{
+        width:100%;
+    }
+    .about-area-all-title .about-area-sub-title > h5 {
+        text-align: center;
+    }
+    .about-area-all-title .about-area-title > h3 {
+        text-align: center;
+        font-size: 25px;
+    }
+    .about-area-button {
+        margin-top: 35px;
+        text-align: center;
+    }
+    .about-box {
+        display: block;
+    }
+    .about-box-content {
+        margin: 35px 0;
+    }
+    .about-box-icon > img {
+        margin-right: 20px;
+        margin-top: -30px;
+    }
+    .about-box-content > h5 {
+        margin-left: 60px;
+    }
+    .about-area-button {
+        margin-top: 45px;
+    }
+    .about-area-all-title .about-area-pera > p {
+        font-size: 14px;
+    }
+    .about-area-all-title .about-area-pera{
+        margin-bottom: 16px;
+    }
+    /* End About Area */
+
+    /* Start Choos Area */
+    section.choos-area {
+        padding-bottom: 60px;
+        padding-top: 20px;
+    }
+    .all-title-choos-area .choos-area-sub-title > h5 {
+        text-align: center;
+        margin-top: 40px;
+    }
+    .all-title-choos-area .choos-area-title > h3 {
+        text-align: center;
+    }
+    .all-title-choos-area .choos-area-pera > p {
+        text-align: center;
+    }
+    .choos-area-button {
+        margin-top: 45px;
+        text-align: center;
+    }
+    /* End Choos Area */
+
+    /* Start Hero Area */
+    .apldg-hero-slider-area .apldg-hero-slider .apldg-hero-left h1 {
+        font-size: 28px;
+    }
+    .apldg-hero-slider-area .apldg-hero-slider .apldg-hero-single-item {
+        padding-top: 0px;
+    }
+    .apldg-hero-slider-area .apldg-hero-slider .slick-dots {
+        top: 25%;
+    }
+    /* End Hero Area */
+
+    /* Start Header Area */
+    .sina-nav .extension-nav > ul > li> a.apldg-primary-btn {
+        display: none;
+    }
+    .sina-nav .sina-brand {
+        height: 60px;
+        max-width: 200px;
+        padding: 0;
+        margin: 0;
+        text-decoration: none;
+        float: none;
+    }
+    nav.sina-nav.mobile-sidebar.navbar-fixed{
+        position: fixed !important;
+        top: 0;
+        box-shadow: 0 1px 4px #eee;
+    }
+    .sina-nav .navbar-toggle {
+        position: absolute;
+        left: 25px;
+        z-index: 9999;
+    }
+    /* End Header Area */
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
+
+/* Smaill Mobile : 430px. */
+@media(max-width:430px){
+
+    /* Start Testimonial Area */
+    .testimonial-area .client-comment > p {
+        font-size: 10px;
+        padding-right: 5px;
+        margin-bottom: 5px;
+    }
+    .testimonial-area .client-comment > h5 {
+        font-size: 15px;
+    }
+    .testimonial-area .client-comment > h6 {
+        font-size: 10px;
+    }
+    /* End Testimonial Area */
+
+    /* Start Portfolio Area */
+    .portfolio-area .portfolio-main-titles h3 {
+        font-size: 25px;
+    }
+    .portfolio-menu {
+        text-align: center;
+    }
+    ul.portfolio-menu-items {
+        padding: 0;
+        margin: 0;
+    }
+    .portfolio-area .portfolio-menu ul li {
+        display: block;
+        text-align: center;
+    }
+    /* End Portfolio Area */
+
+    /* Start Schedule Area */
+    .schedule-area-title > h4 {
+        font-size: 18px;
+    }
+    /* End Schedule Area */
+
+    /* Start Choose Area */
+    .all-title-choos-area .choos-area-title > h3 {
+        font-size: 22px;
+    }
+    .all-title-choos-area .choos-area-pera > p {
+        text-align: center;
+        font-size: 14px;
+    }
+    .all-choos-content .choos-sub-title > p {
+        font-size: 12px;
+    }
+    .all-choos-content .choos-title > h4 {
+        font-size: 14px;
+    }
+    /* End Choose Area */
+}
+
+
+
